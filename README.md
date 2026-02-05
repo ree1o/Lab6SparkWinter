@@ -1,4 +1,4 @@
-Lab 6: Spark ML Pipeline on Amazon EMR
+# Lab 6: Spark ML Pipeline on Amazon EMR
 
 **Course:** Distributed Computing
 **Student:** Kenzhekeyev Runar (IT-2303)
